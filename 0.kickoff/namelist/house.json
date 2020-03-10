@@ -1,0 +1,28 @@
+{
+  "DevNet_Forum_Participants": [
+    {
+      "name": "House Liang",
+      "team": "JP-Lan",
+      "manager": "Mina Cai",
+      "location": "Dalian",
+      "blue-badge": true,
+      "product": [
+        {
+          "name": "Catalyst",
+          "years": 5
+        },
+        {
+          "name": "SD-Access",
+          "years": 0.3
+        }
+      ],
+      "language": [
+        {
+          "name": "none",
+          "level": "Rookie"
+        }
+      ],
+      "greetings": "希望通过参加DevNet Forum, 能与大家一起分享学习的快乐!"
+    }
+  ]
+}
